@@ -4,7 +4,9 @@
 所有博客均在 [issues](https://github.com/riskers/blog/issues) 中发布
 
 ## 关于订阅
-在页面右上角，点击 `Watch` 按钮，再选中 `Watching` 即可。
+喜欢就点`star`，但是`star`并没有订阅博客。
+订阅的话就要，点击 `Watch` 按钮，再选中 `Watching` 即可。这样每次有更新`github`就会提醒你。
+不要`fork`! 不要`fork`! 不要`fork`!
 
 ## 关于我
 2014年大学毕业，现在在北京某互联网公司从事前端开发的工作，近半年主要做移动web开发
