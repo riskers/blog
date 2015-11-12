@@ -14,6 +14,7 @@
 2014年大学毕业，现在在北京某互联网公司从事前端开发的工作，近半年主要做移动web开发
 
 [@微博](http://weibo.com/damaoxianjia123)
+
 [@知乎](http://www.zhihu.com/people/riskers)
 
 [更多信息...](https://github.com/riskers/blog/issues/1)
