@@ -1,4 +1,4 @@
-# `一波` de 个人博客
+# 一波 de 个人博客
 
 ## 博客地址
 所有博客均在 [issues](https://github.com/riskers/blog/issues) 中发布
