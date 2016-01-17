@@ -1,4 +1,4 @@
-# 一波 de 个人博客
+# 个人博客
 
 ## 博客地址
 所有博客均在 [issues](https://github.com/riskers/blog/issues) 中发布
@@ -13,9 +13,9 @@
 ## 关于我
 2014年大学毕业，现在在北京某互联网公司从事前端开发的工作，近半年主要做移动web开发
 
-[@微博](http://weibo.com/damaoxianjia123)
-
-[@知乎](http://www.zhihu.com/people/riskers)
+* [微博](http://weibo.com/damaoxianjia123) 欢迎关注
+* [知乎](http://www.zhihu.com/people/riskers)
+* [简书](http://www.jianshu.com/users/15d843cd48a8/latest_articles) 里面是技术无关的废话
 
 [更多信息...](https://github.com/riskers/blog/issues/1)
 
