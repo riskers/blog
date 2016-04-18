@@ -18,6 +18,7 @@
 * [微博](http://weibo.com/damaoxianjia123) 欢迎关注
 * [知乎](http://www.zhihu.com/people/riskers)
 * [简书](http://www.jianshu.com/users/15d843cd48a8/latest_articles) 里面是技术无关的废话
+* [简历](https://github.com/riskers/resume)
 
 [更多信息...](https://github.com/riskers/blog/issues/1)
 
