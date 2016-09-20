@@ -13,7 +13,7 @@
 ## 关于我
 2014年大学毕业，现在在北京某互联网公司从事前端开发的工作，近半年主要做移动web开发
 
-* [PPT](http://ybshare.coding.io/share)
+* [PPT](https://riskers.github.io/share/share)
 * [npm](https://www.npmjs.com/~risker)
 * [微博](http://weibo.com/damaoxianjia123) 欢迎关注
 * [知乎](http://www.zhihu.com/people/riskers)
