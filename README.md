@@ -8,8 +8,13 @@
 
 不要`fork`! 不要`fork`! 不要`fork`!
 
+## 招聘
+
+详见 https://github.com/riskers/blog/issues/31
+
 ## 关于我
-2014年大学毕业，现在在北京某互联网公司从事前端开发的工作，近半年主要做移动web开发
+
+React 技术栈 | 移动端 | 工程化 | 全端
 
 * [微博](http://weibo.com/damaoxianjia123)
 * [知乎](http://www.zhihu.com/people/riskers)
