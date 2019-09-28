@@ -14,11 +14,7 @@
 
 ## 关于我
 
-React 技术栈 | 移动端 | 工程化 | 全端
-
-* [微博](http://weibo.com/damaoxianjia123)
-* [知乎](http://www.zhihu.com/people/riskers)
-* [简书](http://www.jianshu.com/users/15d843cd48a8/latest_articles)
+React 技术栈 | 移动端 | 工程化
 
 [更多信息...](https://github.com/riskers/blog/issues/1)
 
